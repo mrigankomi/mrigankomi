@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on  I’m looking to collaborate on Cloud/Data Engineering tasks.
 
 
-I bring solid development in building scalable data solutions. My expertise lies in leveraging advanced data engineering practices to extract, transform and load (ETL), enhancing Business intelligence (BI) and enabling data-driven decision making. I love working with different tools using Python and SQL. I shine in building cloud based solutions utilizing platforms such as GCP, AWS to architect robust data pipelines and storage systems.
+I bring expertise in building scalable data solutions, leveraging advanced data engineering practices to extract, transform, and load (ETL) data. My skills enhance Business Intelligence (BI) and enable data-driven decision-making. Proficient in working with various tools, including Python and SQL, I excel in building cloud-based solutions utilizing platforms like GCP and AWS. My expertise includes architecting robust data pipelines and storage systems.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrigankomi)](https://github.com/anuraghazra/github-readme-stats)
 
