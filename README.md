@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Mrigank
 
-- 👀 I’m a Busniess intelligence and data science developer specializing in Google Cloud, Data Engineering.
+- 👀 I’m a Busniess intelligence and data science developer specializing in Google Cloud, Machine Learning, Data Engineering.
 - 🌱 I’m currently learning GCP | Kubernetes | Apache Beam 
 - 👯 I’m looking to collaborate on Cloud/Data Engineering tasks.
 
